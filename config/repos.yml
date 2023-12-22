@@ -120,8 +120,6 @@ repos:
     link: 'https://github.com/Neutronic/ReaScripts'
     index: 'https://github.com/Neutronic/ReaScripts/raw/master/index.xml'
   -
-    link: 'https://github.com/zaibuyidao/ReaScripts'
-    index: 'https://github.com/zaibuyidao/ReaScripts/raw/master/index.xml'
   -
     link: 'https://reaticulate.com/'
     index: 'https://reaticulate.com/release.xml'
